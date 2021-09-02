@@ -1,0 +1,13 @@
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\bin\Debug\Dernek-Otomasyon.exe.config
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\bin\Debug\Dernek-Otomasyon.exe
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\bin\Debug\Dernek-Otomasyon.pdb
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek-Otomasyon.csproj.AssemblyReference.cache
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek_Otomasyon.Form1.resources
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek_Otomasyon.Properties.Resources.resources
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek-Otomasyon.csproj.GenerateResource.cache
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek-Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek-Otomasyon.exe
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek-Otomasyon.pdb
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek_Otomasyon.FormAna.resources
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek_Otomasyon.formm.resources
+C:\Users\Buğra\source\repos\Dernek-Otomasyon\Dernek-Otomasyon\obj\Debug\Dernek_Otomasyon.FormIstatistik.resources

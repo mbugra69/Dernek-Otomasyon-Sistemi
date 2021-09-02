@@ -1,0 +1,103 @@
+﻿
+namespace Dernek_Otomasyon
+{
+    partial class FormIstatistik
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblUyeSayi = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.lblKasa = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label1.Location = new System.Drawing.Point(12, 34);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(131, 29);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Üye Sayısı:";
+            // 
+            // lblUyeSayi
+            // 
+            this.lblUyeSayi.AutoSize = true;
+            this.lblUyeSayi.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblUyeSayi.Location = new System.Drawing.Point(149, 34);
+            this.lblUyeSayi.Name = "lblUyeSayi";
+            this.lblUyeSayi.Size = new System.Drawing.Size(26, 29);
+            this.lblUyeSayi.TabIndex = 1;
+            this.lblUyeSayi.Text = "0";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label2.Location = new System.Drawing.Point(70, 81);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(73, 29);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Kasa:";
+            // 
+            // lblKasa
+            // 
+            this.lblKasa.AutoSize = true;
+            this.lblKasa.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblKasa.Location = new System.Drawing.Point(149, 81);
+            this.lblKasa.Name = "lblKasa";
+            this.lblKasa.Size = new System.Drawing.Size(26, 29);
+            this.lblKasa.TabIndex = 3;
+            this.lblKasa.Text = "0";
+            // 
+            // FormIstatistik
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(843, 463);
+            this.Controls.Add(this.lblKasa);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.lblUyeSayi);
+            this.Controls.Add(this.label1);
+            this.Name = "FormIstatistik";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "İstatistikler";
+            this.Load += new System.EventHandler(this.FormIstatistik_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblUyeSayi;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label lblKasa;
+    }
+}
